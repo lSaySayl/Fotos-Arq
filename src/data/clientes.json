@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cliente 1",
+      "telefono": "555-111-1111",
+      "email": "cliente1@ejemplo.com",
+      "direccion": "Calle 123, Colonia Centro, Ciudad de México"
+    },
+    {
+      "id": 2,
+      "nombre": "Cliente 2",
+      "telefono": "555-222-2222",
+      "email": "cliente2@ejemplo.com",
+      "direccion": "Avenida 456, Colonia Polanco, Ciudad de México"
+    },
+    {
+      "id": 3,
+      "nombre": "Cliente 3",
+      "telefono": "555-333-3333",
+      "email": "cliente3@ejemplo.com",
+      "direccion": "Calle 789, Colonia Roma, Ciudad de México"
+    },
+    {
+      "id": 4,
+      "nombre": "Cliente 4",
+      "telefono": "555-444-4444",
+      "email": "cliente4@ejemplo.com",
+      "direccion": "Calle 456, Colonia Condesa, Ciudad de México"
+    },
+    {
+      "id": 5,
+      "nombre": "Cliente 5",
+      "telefono": "555-555-5555",
+      "email": "cliente5@ejemplo.com",
+      "direccion": "Calle 123, Colonia Del Valle, Ciudad de México"
+    },
+    {
+      "id": 6,
+      "nombre": "Cliente 6",
+      "telefono": "555-666-6666",
+      "email": "cliente6@ejemplo.com",
+      "direccion": "Calle 987, Colonia Narvarte, Ciudad de México"
+    },
+    {
+      "id": 7,
+      "nombre": "Cliente 7",
+      "telefono": "555-777-7777",
+      "email": "cliente7@ejemplo.com",
+      "direccion": "Avenida 789, Colonia Anzures, Ciudad de México"
+    },
+    {
+      "id": 8,
+      "nombre": "Cliente 8",
+      "telefono": "555-888-8888",
+      "email": "cliente8@ejemplo.com",
+      "direccion": "Calle 456, Colonia San Angel, Ciudad de México"
+    },
+    {
+      "id": 9,
+      "nombre": "Cliente 9",
+      "telefono": "555-999-9999",
+      "email": "cliente9@ejemplo.com",
+      "direccion": "Avenida 123, Colonia Lomas de Chapultepec, Ciudad de México"
+    },
+    {
+      "id": 10,
+      "nombre": "Cliente 10",
+      "telefono": "555-000-0000",
+      "email": "cliente10@ejemplo.com",
+      "direccion": "Calle 789, Colonia Santa Fe, Ciudad de México"
+    }
+  ]

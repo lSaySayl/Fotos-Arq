@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Proveedor 1",
+        "telefono": "555-111-1111",
+        "email": "proveedor1@ejemplo.com",
+        "direccion": "Calle 123, Colonia Centro, Ciudad de México"
+    },
+    {
+        "id": 2,
+        "nombre": "Proveedor 2",
+        "telefono": "555-222-2222",
+        "email": "proveedor2@ejemplo.com",
+        "direccion": "Calle 124, Colonia Centro, Ciudad de México"
+    },
+    {
+        "id": 3,
+        "nombre": "Proveedor 3",
+        "telefono": "555-333-3333",
+        "email": "proveedor3@ejemplo.com",
+        "direccion": "Calle 789, Colonia Roma, Ciudad de México"
+    },
+    {
+        "id": 4,
+        "nombre": "Proveedor 4",
+        "telefono": "555-444-4444",
+        "email": "proveedor4@ejemplo.com",
+        "direccion": "Calle 456, Colonia Condesa, Ciudad de México"
+    },
+    {
+        "id": 5,
+        "nombre": "Proveedor 5",
+        "telefono": "555-555-5555",
+        "email": "proveedor5@ejemplo.com",
+        "direccion": "Calle 123, Colonia Del Valle, Ciudad de México"
+    },
+    {
+        "id": 6,
+        "nombre": "Proveedor 6",
+        "telefono": "555-666-6666",
+        "email": "proveedor6@ejemplo.com",
+        "direccion": "Calle 987, Colonia Narvarte, Ciudad de México"
+    },
+    {
+        "id": 7,
+        "nombre": "Proveedor 7",
+        "telefono": "555-777-7777",
+        "email": "proveedor7@ejemplo.com",
+        "direccion": "Avenida 789, Colonia Anzures, Ciudad de México"
+    },
+    {
+        "id": 8,
+        "nombre": "Proveedor 8",
+        "telefono": "555-888-8888",
+        "email": "proveedor8@ejemplo.com",
+        "direccion": "Calle 456, Colonia San Angel, Ciudad de México"
+    },
+    {
+        "id": 9,
+        "nombre": "Proveedor 9",
+        "telefono": "555-999-9999",
+        "email": "proveedor9@ejemplo.com",
+        "direccion": "Avenida 123, Colonia Lomas de Chapultepec, Ciudad de México"
+    },
+    {
+        "id": 10,
+        "nombre": "Proveedor 10",
+        "telefono": "555-000-0000",
+        "email": "proveedor10@ejemplo.com",
+        "direccion": "Calle 789, Colonia Santa Fe, Ciudad de México"
+    }
+]

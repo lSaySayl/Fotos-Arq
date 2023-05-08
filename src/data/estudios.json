@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Estudio 1",
+    "telefono": "555-111-1111",
+    "email": "estudio1@ejemplo.com",
+    "direccion": "Calle 123, Colonia Centro, Ciudad de México"
+  },
+  {
+    "id": 2,
+    "nombre": "Estudio 2",
+    "telefono": "555-222-2222",
+    "email": "estudio2@ejemplo.com",
+    "direccion": "Avenida 456, Colonia Polanco, Ciudad de México"
+  },
+  {
+    "id": 3,
+    "nombre": "Estudio 3",
+    "telefono": "555-333-3333",
+    "email": "estudio3@ejemplo.com",
+    "direccion": "Calle 789, Colonia Del Valle, Ciudad de México"
+  },
+  {
+    "id": 4,
+    "nombre": "Estudio 4",
+    "telefono": "555-444-4444",
+    "email": "estudio4@ejemplo.com",
+    "direccion": "Avenida 987, Colonia Roma, Ciudad de México"
+  },
+  {
+    "id": 5,
+    "nombre": "Estudio 5",
+    "telefono": "555-555-5555",
+    "email": "estudio5@ejemplo.com",
+    "direccion": "Calle 654, Colonia Condesa, Ciudad de México"
+  },
+  {
+    "id": 6,
+    "nombre": "Estudio 6",
+    "telefono": "555-666-6666",
+    "email": "estudio6@ejemplo.com",
+    "direccion": "Avenida 321, Colonia Narvarte, Ciudad de México"
+  },
+  {
+    "id": 7,
+    "nombre": "Estudio 7",
+    "telefono": "555-777-7777",
+    "email": "estudio7@ejemplo.com",
+    "direccion": "Calle 654, Colonia San Ángel, Ciudad de México"
+  },
+  {
+    "id": 8,
+    "nombre": "Estudio 8",
+    "telefono": "555-888-8888",
+    "email": "estudio8@ejemplo.com",
+    "direccion": "Avenida 987, Colonia Santa Fe, Ciudad de México"
+  },
+  {
+    "id": 9,
+    "nombre": "Estudio 9",
+    "telefono": "555-999-9999",
+    "email": "estudio9@ejemplo.com",
+    "direccion": "Calle 123, Colonia Doctores, Ciudad de México"
+  },
+  {
+    "id": 10,
+    "nombre": "Estudio 10",
+    "telefono": "555-000-0000",
+    "email": "estudio10@ejemplo.com",
+    "direccion": "Avenida 456, Colonia Reforma, Ciudad de México"
+  }
+]
